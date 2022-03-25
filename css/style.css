@@ -216,7 +216,7 @@ a{text-decoration: none;}
     margin: 0 auto;
     padding: 0 10px;
     font-size: 0;
-    background: #ffa;
+    /* background: #ffa; */
 }
 #special #main_cont .cont_part .wrap .outer{
     display: inline-block;
